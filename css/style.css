@@ -1,0 +1,8 @@
+img {
+    height: 200px !important;
+    width: 200 !important;
+}
+
+.container-fluid {
+    border-bottom: 3px solid black;
+}
